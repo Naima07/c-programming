@@ -2,6 +2,7 @@
 int main()
 {
 
-    printf("meaw kittu");
+    printf("naima fuler moto meye");
+
     return 0;
-}
+} 
